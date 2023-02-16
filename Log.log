@@ -1,0 +1,19 @@
+[25/Oct/2022 17:13:36] [ID] 1026746 [Rule] Internet access (NAT) [Service] HTTPS [Connection] TCP 172.16.33.26:47170 -> xx-fbcdn-shv-01-tir2.fbcdn.net (157.240.228.1):443 [Iface] NKN [Duration] 96 sec [Bytes] 2770/39842/42612 [Packets] 28/29/57
+[25/Oct/2022 17:13:37] [ID] 1026460 [Rule] Internet access (NAT) [Service] HTTPS [Connection] TCP 172.16.33.21:38666 -> placement-rules-noneu.truecaller.com (35.190.118.8):443 [Iface] NKN [Duration] 374 sec [Bytes] 4865/70460/75325 [Packets] 55/75/130
+[25/Oct/2022 17:13:37] [ID] 1026359 [Rule] Internet access (NAT) [Connection] UDP 172.16.33.24:63656 -> ssl.gstatic.com (142.250.196.67):443 [Iface] NKN [Duration] 484 sec [Bytes] 3090/5093/8183 [Packets] 15/17/32
+[25/Oct/2022 17:13:38] [ID] 1026363 [Rule] Internet access (NAT) [Connection] UDP 172.16.33.24:64228 -> beacons.gvt2.com (142.250.182.3):443 [Iface] NKN [Duration] 481 sec [Bytes] 3013/5168/8181 [Packets] 17/15/32
+[25/Oct/2022 17:13:38] [ID] 1026362 [Rule] Internet access (NAT) [Connection] UDP 172.16.33.24:55785 -> google.com (142.250.205.238):443 [Iface] NKN [Duration] 481 sec [Bytes] 3343/4875/8218 [Packets] 9/11/20
+[25/Oct/2022 17:13:38] [ID] 1026361 [Rule] Internet access (NAT) [Connection] UDP 172.16.33.24:61545 -> beacons.gcp.gvt2.com (172.217.166.99):443 [Iface] NKN [Duration] 481 sec [Bytes] 2773/4897/7670 [Packets] 10/11/21
+
+
+
+
+[13/Oct/2022 15:57:26] ALLOW "Internet access (NAT)" packet from LAN, proto:UDP, len:68, 172.16.33.24:51180 -> 180.149.62.18:443, udplen:40
+[13/Oct/2022 15:57:26] ALLOW "Internet access (NAT)" packet from LAN, proto:UDP, len:63, 172.16.33.24:51180 -> 180.149.62.18:443, udplen:35
+[13/Oct/2022 15:57:26] ALLOW "Internet access (NAT)" packet from LAN, proto:UDP, len:63, 172.16.33.24:51180 -> 180.149.62.18:443, udplen:35
+[13/Oct/2022 15:57:26] ALLOW "Internet access (NAT)" packet to NKN, proto:UDP, len:63, 14.139.92.179:51180 -> 180.149.62.18:443, udplen:35
+[13/Oct/2022 15:57:26] ALLOW "Internet access (NAT)" packet to NKN, proto:UDP, len:63, 14.139.92.179:51180 -> 180.149.62.18:443, udplen:35
+[13/Oct/2022 15:57:26] ALLOW "Internet access (NAT)" packet from LAN, proto:UDP, len:63, 172.16.33.24:51180 -> 180.149.62.18:443, udplen:35
+[13/Oct/2022 15:57:26] Last message repeated 7 times
+[13/Oct/2022 15:57:26] ALLOW "Internet access (NAT)" packet to NKN, proto:UDP, len:63, 14.139.92.179:51180 -> 180.149.62.18:443, udplen:35
+[13/Oct/2022 15:57:26] Last message repeated 8 times

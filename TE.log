@@ -1,0 +1,3 @@
+[25/Oct/2022 16:47:08] [ID] 1024673 [Rule] Internet access (NAT) [Service] HTTPS [Connection] TCP 172.16.33.26:39378 -> youtubei.googleapis.com (216.58.196.170):443 [Iface] NKN [Duration] 38 sec [Bytes] 1171/5990/7161 [Packets] 11/6/17
+[25/Oct/2022 16:47:08] [ID] 1024672 [Rule] Internet access (NAT) [Service] HTTPS [Connection] TCP 172.16.33.26:37988 -> i.ytimg.com (142.250.196.86):443 [Iface] NKN [Duration] 38 sec [Bytes] 1171/6023/7194 [Packets] 11/6/17
+[25/Oct/2022 16:47:12] [ID] 1024717 [Rule] Internet access (NAT) [Service] HTTPS [Connection] TCP 172.16.33.46:61421 -> settings-win.data.microsoft.com (52.137.106.217):443 [Iface] NKN [Duration] 32 sec [Bytes] 1604/4380/5984 [Packets] 12/8/20
